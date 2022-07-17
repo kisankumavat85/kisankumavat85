@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kisan. I am Jr Software Engineer and I love to code in JavaScript.
+I am Kisan. I am Jr. Software Engineer and I love to code in JavaScript.
 
 - 🚀 Tech Stack: React, Next.js, Redux
 - 🌱 Learning: TypeScript, Express, MongoDB
