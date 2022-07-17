@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Kisan. I am Jr Software Engineer and I love to code in JavaScript.
+
+- 🔭 Tech Stack: React, Next.js, Redux
+- 🌱 Learning: TypeScript, Express, MongoDB
+- ❤️ Love: Reading Books, Watching Movies
+
 <!--
 **kisankumavat85/kisankumavat85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
